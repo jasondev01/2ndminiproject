@@ -304,8 +304,8 @@ hr {
 }
 
 .footer {
-    max-width: 85%;
-    margin: 70px 20px;
+    width: 85%;
+    margin: 70px auto;
 }
 
 .footer a {
@@ -432,8 +432,6 @@ hr {
 
     .feature-subtitle {
         font-size: 20px;
-        width: 80%;
-        margin: auto;
     }
 
     .feature-2-poster-container {
